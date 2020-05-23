@@ -1,0 +1,56 @@
+body{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background-image: url("2.jpg");
+	background-size: 170%;
+	background-position: center;
+	font-family: sans-serif;
+	}
+	.styles-taught
+	{
+		margin-top: 30px;
+		margin-left: 450px;
+		color: LightGray;
+		text-transform: uppercase;
+		transition: all 4s ease-in-out;
+	}
+	.styles-taught h1
+	{
+	font-size: 32px;
+	line-height: 10px;
+	color: white;
+	}
+	.styles-taught h3
+	{
+		margin-right: 140px;
+	line-height: 10px;
+	color: white;
+	}
+	.allimages
+	{
+		margin-left: 350px;
+		;
+	}
+	.dancestyle
+	{
+		margin-right:75px;
+		color: LightGray;
+		 background-color: transparent;
+		text-decoration: none;
+	}
+	.button
+	{ 
+	margin-top: 50px;
+		margin-right:130px;
+		transition: all 4s ease-in-out;
+		background: #f4511e;
+		border-color: transparent;
+		color: #fff;
+		font-family: sans-serif;
+		font-size: 20px;
+		font-weight: bold;
+		letter-spacing: 2px;
+		height: 50px;
+		margin-top: 20px;
+	}

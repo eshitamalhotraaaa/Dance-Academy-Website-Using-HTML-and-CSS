@@ -1,0 +1,57 @@
+body{
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	background-image: url("dance1.jpg");
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+	}
+	.dance-title
+	{
+		margin-top: 50px;
+		margin-left:50px;
+		color: LightGray;
+		text-transform: uppercase;
+		transition: all 4s ease-in-out;
+	}
+	.dance-title h1
+	{
+	font-size: 32px;
+	line-height: 10px;
+	color: white;
+	}
+		.dance-title h2
+	{
+	font-size: 16px;
+	line-height: 10px;
+	color: white;
+	}
+	.dance-title h4
+	{
+	font-size: 16px;
+	line-height: 10px;
+	color: white;
+	}
+	.dance-title p
+	{
+	font-size: 16px;
+	line-height: 10px;
+	color: white;
+	}
+	.button
+	{ 
+	margin-top: 50px;
+		margin-left:130px;
+		transition: all 4s ease-in-out;
+		background: #f4511e;
+		border-color: transparent;
+		color: #fff;
+		font-family: sans-serif;
+		font-size: 20px;
+		font-weight: bold;
+		letter-spacing: 2px;
+		height: 50px;
+		margin-top: 20px;
+	}
+	

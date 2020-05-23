@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+	}
+	.dancestyle
+	{
+		margin-top: 50px;
+		margin-left: 450px;
+		color: LightGray;
+		text-transform: uppercase;
+		transition: all 4s ease-in-out;
+	}
+	.dancestyle h1
+	{
+	font-size: 32px;
+	line-height: 10px;
+	color: white;
+	}
+	.img
+	{
+		margin-left: 50px;
+	}
